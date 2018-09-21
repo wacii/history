@@ -1,6 +1,6 @@
 {
   "name": "@wacii/history",
-  "version": "4.8.0",
+  "version": "4.8.1",
   "description": "Manage session history with JavaScript",
   "repository": "wacii/history",
   "license": "MIT",
